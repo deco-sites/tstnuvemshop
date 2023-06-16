@@ -10190,6 +10190,13 @@
           ],
           "title": "In Product Group With I D"
         },
+        "isSimilarTo": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/L1VzZXJzL2x1Y2lzL2RlY28vc3RkL2NvbW1lcmNlL3R5cGVzLnRz@Product"
+          },
+          "title": "Is Similar To"
+        },
         "isVariantOf": {
           "$ref": "#/definitions/L1VzZXJzL2x1Y2lzL2RlY28vc3RkL2NvbW1lcmNlL3R5cGVzLnRz@ProductGroup",
           "title": "Is Variant Of"
